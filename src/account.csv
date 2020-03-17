@@ -1,0 +1,5 @@
+type,account number,pin,balance,overdraft limit,suspended,customer id,notice year,notice month,notice date,notice amount
+c,201901,0,204679.0,100.0,false,161189147
+s,201903,0,900.0,0.0,false,161189147,1970,1,1,0.0
+j,201902,0,0.0,0.0,false,161189147
+s,201904,523115,0.0,0.0,true,161189112,1970,1,1,0.0

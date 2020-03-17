@@ -1,0 +1,8 @@
+type,account number,amount,year,month,date,cleared
+deposit,201904,80.0,2019,5,12,true
+deposit,201904,100.0,2019,5,12,true
+withdraw,201904,199.0,2019,5,12
+deposit,201904,1234.0,2019,5,12,true
+withdraw,201904,1234.0,2019,5,12
+deposit,201904,80.0,2019,5,12,true
+withdraw,201904,80.0,2019,5,12
